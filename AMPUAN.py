@@ -1,0 +1,6 @@
+print("Ayyah M. Ampuan")
+print("Bachelor of Science in Computer Science")
+print("CS1E")
+print("18")
+print("July 19, 2005")
+print("Villa Candida Subdivision, Bulua, CDOC")
